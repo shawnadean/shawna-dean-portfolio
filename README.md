@@ -3,5 +3,10 @@ Visit [my portfolio website](https://shawnadean.github.io/shawna-dean-portfolio/
 <br>
 <br>
 ### About This Project
-I built this website to learn github in a fun and creative way and to have a space to showcase my work and personality.   I got started following [this youtube video](https://www.youtube.com/watch?v=mEZ1Hj5yQ-8) and using [this hugo theme](https://github.com/gurusabarish/hugo-profile).  Having absolutely no web development experience and knowing I wanted to heavily customize this theme, I relied on my :grey_question: problem solving intuition and :mag: Googling skills to learn some basic html and CSS!
+I built this website to (1) learn **GitHub** in a fun and creative way and (2) have a space to showcase my work and personality.  I relied heavily on my :grey_question: problem solving intuition and :mag: Googling skills to pick up some basic **HTML** and **CSS** and fix errors.
+<br>
+<br>
+### Resources
+- [How to Build a Data Science Portfolio Website with Hugo & Github Pages](https://www.youtube.com/watch?v=mEZ1Hj5yQ-8)
+- [Hugo Profile Theme](https://github.com/gurusabarish/hugo-profile)
 
