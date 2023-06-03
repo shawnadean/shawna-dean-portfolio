@@ -1,5 +1,5 @@
 # Shawna Dean | Portfolio :chart_with_upwards_trend:
-Visit [my portfolio website](https://shawnadean.github.io/shawna-dean-portfolio/) to learn about my past internship experiences, skills, and interests!  I am working on some personal projects using Tableau, R, and python. :sparkles:Stay Tuned:sparkles:
+Visit [my portfolio website](https://shawnadean.github.io/shawna-dean-portfolio/) to learn about my past internship experiences, skills, and interests!  
 <br>
 <br>
 ### About This Project
