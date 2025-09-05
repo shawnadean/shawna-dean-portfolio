@@ -341,7 +341,10 @@ params:
     btnName: Email Shawna Dean
 
   footer:
-    recentPosts: false
+    recentPosts:
+      enable: false
+      path: ""
+      title: ""
     socialNetworks:
        linkedin: https://www.linkedin.com/in/shawna-dean/
        github: https://github.com/shawnadean
