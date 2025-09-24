@@ -264,23 +264,20 @@ params:
 
   # Achievements
   achievements:
-    enable: false
-    # title: "Custom Name"
+    enable: true
+    title: "What People Are Saying: 2024 Performance Review by Irene Nations & Douglas Lim"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
-
+      - title: Accountability
+        content: Shawna has been able to demonstrate high accountability on the team for herself and for the outcome of others. She has promoted a sense of urgency and seeks out understanding in order to meet delivery targets. She has been able to influence her peers in this area by establishing explicit performance standards and opening lines of communication to hear feedback from her leaders on how to improve performance.
+      - title: Collaboration
+        content: Shawna is exceptional in building relationships with her peers and business partners. She is able to deliver complex information to a wide range of audiences and engage them in discussion and contribute to the conversation. She has shown to be highly collaborative across teams. She has been able to influence peers in delivering new solutions that will enhance our service offerings.
+      - title: Communication
+        content: Shawna is excellent at engaging others to share ideas, perspectives, and different viewpoints. She has proven to be effective both in writing and with verbal presentations by altering her communication style to match the audience. She is thoughtful in her approach and encourages others to share their opinions. She is an example on this team of active listening skills and how to communicate to an executive audience.
+      - title: Customer Focus
+        content: Shawna has been able to anticipate customer needs and influence decisions through data. She has shown to push herself and others to achieve high standards and requires little follow-up on meeting delivery dates.
+      - title: Azure DevOps
+        content: Shawna has been a role model in carving out her project plans in ADO to achieve results. She has been able to take complex problems and find solutions using her resources and knowledge acquired to contribute to the success of our team.
+    
   # projects
   projects:
     enable: false
