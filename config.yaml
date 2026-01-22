@@ -120,7 +120,8 @@ params:
       enable: true
     # name: "Download Resume"
       name: "Resume"
-      url: https://drive.google.com/file/d/1nb6aZmrx-MsoTWiStYrNURuI6VsDjObX/view?usp=sharing
+      #url: https://drive.google.com/file/d/1nb6aZmrx-MsoTWiStYrNURuI6VsDjObX/view?usp=sharing
+      url: /Shawna_Dean_Resume_09-2025-redacted.pdf
       download: true 
     socialLinks:
       fontAwesomeIcons:
@@ -145,7 +146,7 @@ params:
 
       In my work as a Data Analyst and Project Manager for the [UF AIS Consulting Committee](https://www.ufais.org/consulting), I felt a natural pull toward the big-picture mindset and developed my appetite for aligning teams under a shared vision. As an NFCU Branch Ops Sr Business Intelligence Analyst, I discovered my knack for guiding decision-making among cross functional teams & communicating with both empathy and tact.
 
-      I am eager to enter the NFCU digital user experience space to help shape and deliver intuitive solutions that make managing money fun and easy. 
+      I am eager to enter the digital user experience space to help shape and deliver intuitive solutions that make managing money fun and easy. 
     skills:
       enable: false
       title: "Here are a few technologies I've been working with recently:"
