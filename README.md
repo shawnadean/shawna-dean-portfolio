@@ -1,4 +1,4 @@
-# Shawna Dean | Portfolio :chart_with_upwards_trend:
+# Shawna Dean | Portfolio
 Visit [my portfolio website](https://shawnadean.github.io/shawna-dean-portfolio/) to learn about my past internship experiences, skills, and interests!  
 
 ### About This Project
